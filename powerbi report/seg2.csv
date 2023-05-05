@@ -1,0 +1,581 @@
+,Year_Birth,Education,Marital_Status,income,Kidhome,Teenhome,segment
+4,1989,Graduation,Single,21474.0,1,0,2
+11,1979,Master,Together,62499.0,1,0,2
+13,1981,Graduation,Married,26872.0,0,0,2
+22,1979,Master,Married,40662.0,1,0,2
+23,1976,PhD,Married,49544.0,1,0,2
+34,1990,Graduation,Married,18351.0,0,0,2
+40,1972,Graduation,Single,21359.0,1,0,2
+43,1986,Graduation,Single,39146.0,1,0,2
+46,1973,Graduation,Married,32300.0,1,0,2
+50,1984,2n Cycle,Married,14796.0,1,0,2
+54,1974,Basic,Married,18393.0,1,0,2
+60,1982,Master,Single,6560.0,0,0,2
+63,1977,Master,Married,22701.0,1,0,2
+65,1986,Graduation,Together,34728.0,1,0,2
+73,1970,Graduation,Single,27242.0,1,0,2
+85,1980,2n Cycle,Single,31859.0,1,0,2
+86,1987,2n Cycle,Single,23830.0,0,0,2
+89,1984,Graduation,Married,27255.0,1,0,2
+111,1970,Graduation,Married,50447.0,2,0,2
+113,1982,Graduation,Together,45203.0,2,0,2
+114,1975,Master,Married,37368.0,1,0,2
+122,1978,Graduation,Married,33039.0,1,0,2
+123,1978,Graduation,Married,33039.0,1,0,2
+131,1967,Master,Single,59235.0,1,0,2
+136,1989,Graduation,Together,31928.0,1,0,2
+138,1987,2n Cycle,Married,30390.0,0,0,2
+139,1985,Graduation,Married,21355.0,1,0,2
+140,1969,Graduation,Married,26304.0,1,0,2
+145,1984,Master,Single,18890.0,0,0,2
+146,1986,Basic,Married,20425.0,1,0,2
+147,1986,Basic,Married,20425.0,1,0,2
+155,1984,PhD,Married,38175.0,1,0,2
+158,1976,Master,Together,30560.0,1,0,2
+159,1976,Master,Together,30560.0,1,0,2
+165,1990,Basic,Married,24279.0,0,0,2
+177,1973,Graduation,Married,52845.0,1,0,2
+178,1976,Graduation,Married,24027.0,1,0,2
+179,1979,2n Cycle,Together,7500.0,1,0,2
+182,1973,Basic,Together,9722.0,1,0,2
+184,1972,Graduation,Married,30467.0,1,0,2
+186,1982,Graduation,Together,19444.0,1,0,2
+192,1981,2n Cycle,Married,35523.0,1,0,2
+193,1975,PhD,Divorced,60554.0,1,0,2
+206,1988,2n Cycle,Married,15716.0,1,0,2
+211,1987,Graduation,Single,57100.0,1,0,2
+212,1972,Graduation,Married,24434.0,2,0,2
+213,1971,PhD,Married,37126.0,1,0,2
+215,1977,Graduation,Together,33178.0,1,0,2
+218,1968,Master,Single,50014.0,1,0,2
+220,1970,Master,Divorced,55282.0,1,0,2
+224,1971,Master,Single,39763.0,1,0,2
+234,1979,Master,Single,16653.0,1,0,2
+237,1973,2n Cycle,Married,43050.0,1,0,2
+239,1992,Basic,Married,17256.0,1,0,2
+241,1983,PhD,Married,33569.0,1,0,2
+242,1980,2n Cycle,Together,25130.0,1,0,2
+250,1986,Master,Married,28072.0,1,0,2
+254,1971,Master,Married,35178.0,1,0,2
+255,1971,Master,Married,35178.0,1,0,2
+260,1970,Graduation,Divorced,64713.0,1,0,2
+261,1986,Graduation,Divorced,41411.0,0,0,2
+265,1970,Graduation,Together,22070.0,1,0,2
+270,1972,Master,Married,35641.0,1,0,2
+271,1984,2n Cycle,Together,32414.0,0,0,2
+273,1980,Graduation,Married,34968.0,1,0,2
+279,1975,Graduation,Single,33249.0,1,0,2
+280,1975,Graduation,Single,33249.0,1,0,2
+286,1988,Graduation,Alone,34176.0,1,0,2
+287,1988,Graduation,Single,34176.0,1,0,2
+294,1975,Master,Together,17459.0,1,0,2
+297,1976,2n Cycle,Together,26326.0,0,0,2
+303,1978,PhD,Single,31626.0,1,0,2
+304,1992,Master,Together,42670.0,0,0,2
+306,1969,Master,Together,41021.0,1,0,2
+310,1983,Master,Married,35876.0,0,0,2
+312,1967,Master,Single,32557.0,1,0,2
+318,1992,Basic,Single,15253.0,1,0,2
+321,1973,Basic,Together,27190.0,1,0,2
+324,1985,2n Cycle,Married,36145.0,1,0,2
+327,1988,Graduation,Together,41883.0,1,0,2
+331,1989,Graduation,Single,30279.0,1,0,2
+332,1989,Graduation,Single,30279.0,1,0,2
+333,1970,Graduation,Widow,31880.0,1,0,2
+336,1973,PhD,Married,37401.0,1,0,2
+337,1973,PhD,Married,37401.0,1,0,2
+347,1977,2n Cycle,Together,20981.0,0,0,2
+349,1983,Graduation,Married,36790.0,0,0,2
+350,1971,Graduation,Married,18793.0,1,0,2
+352,1972,Graduation,Married,30675.0,1,0,2
+355,1983,Master,Single,31788.0,1,0,2
+362,1990,Graduation,Married,18929.0,0,0,2
+363,1990,Graduation,Married,18929.0,0,0,2
+364,1990,Graduation,Married,18929.0,0,0,2
+365,1986,Master,Single,21888.0,1,0,2
+367,1979,PhD,Married,31605.0,1,0,2
+368,1974,PhD,Divorced,25509.0,1,0,2
+369,1974,PhD,Divorced,25509.0,1,0,2
+372,1983,2n Cycle,Married,32146.0,1,0,2
+373,1983,Graduation,Single,22148.0,0,0,2
+374,1979,Graduation,Married,36781.0,1,0,2
+377,1972,Graduation,Single,24762.0,1,0,2
+378,1984,Master,Married,30477.0,1,0,2
+379,1975,2n Cycle,Divorced,11448.0,0,0,2
+381,1980,Graduation,Single,30828.0,1,0,2
+383,1981,2n Cycle,Married,27733.0,1,0,2
+384,1973,PhD,Together,39435.0,1,0,2
+386,1986,2n Cycle,Together,20491.0,0,0,2
+387,1971,Graduation,Married,36715.0,1,0,2
+390,1988,Graduation,Married,24645.0,1,0,2
+393,1971,Graduation,Single,26954.0,1,0,2
+395,1972,PhD,Together,38887.0,1,0,2
+396,1974,2n Cycle,Married,65463.0,1,0,2
+398,1971,Master,Single,36230.0,1,0,2
+406,1978,Graduation,Single,38557.0,1,0,2
+417,1984,Basic,Single,25707.0,1,0,2
+418,1971,PhD,Married,42403.0,1,0,2
+420,1980,Graduation,Married,37406.0,1,0,2
+427,1991,2n Cycle,Together,20193.0,0,0,2
+440,1981,Graduation,Married,29009.0,1,0,2
+442,1975,Master,Married,7500.0,1,0,2
+445,1990,Graduation,Married,30093.0,0,0,2
+446,1974,PhD,Together,30351.0,1,0,2
+447,1974,PhD,Together,30351.0,1,0,2
+450,1980,PhD,Married,43974.0,1,0,2
+454,1972,PhD,Single,27213.0,1,0,2
+455,1976,Graduation,Married,7500.0,1,0,2
+456,1965,Graduation,Divorced,4861.0,0,0,2
+459,1982,PhD,Single,38513.0,1,0,2
+464,1988,2n Cycle,Divorced,35388.0,1,0,2
+477,1972,PhD,Married,29791.0,1,0,2
+483,1984,Graduation,Married,55434.0,1,0,2
+494,1987,Graduation,Together,18227.0,1,0,2
+496,1972,Graduation,Single,38808.0,1,0,2
+498,1978,Master,Married,43783.0,1,0,2
+499,1969,PhD,Married,30396.0,1,0,2
+508,1986,PhD,Single,29999.0,1,0,2
+511,1980,PhD,Single,36802.0,1,0,2
+514,1971,PhD,Together,29732.0,1,0,2
+516,1984,Graduation,Together,16529.0,1,0,2
+529,1978,Basic,Single,26487.0,1,0,2
+530,1970,Graduation,Married,28164.0,1,0,2
+531,1970,Graduation,Single,22585.0,0,0,2
+541,1969,Graduation,Married,14045.0,1,0,2
+546,1968,Master,Divorced,41335.0,1,0,2
+547,1968,Master,Divorced,41335.0,1,0,2
+549,1975,2n Cycle,Together,19789.0,1,0,2
+551,1983,Master,Married,36262.0,0,0,2
+562,1996,2n Cycle,Married,7500.0,0,0,2
+564,1973,Graduation,Married,20895.0,1,0,2
+565,1976,Master,Together,37509.0,1,0,2
+586,1987,Graduation,Together,22434.0,1,0,2
+591,1986,Basic,Single,8940.0,1,0,2
+592,1974,Graduation,Married,26751.0,2,0,2
+593,1978,Graduation,Married,71427.0,2,0,2
+594,1984,Graduation,Together,26646.0,1,0,2
+595,1974,Graduation,Divorced,19346.0,1,0,2
+599,1986,Graduation,Married,25252.0,1,0,2
+601,1979,Basic,Single,15862.0,1,0,2
+603,1989,Graduation,Married,38360.0,1,0,2
+611,1974,Graduation,Single,32233.0,1,0,2
+614,1981,2n Cycle,Together,75774.0,1,0,2
+615,1981,2n Cycle,Together,75774.0,1,0,2
+626,1970,2n Cycle,Married,15315.0,0,0,2
+627,1970,2n Cycle,Married,15315.0,0,0,2
+631,1976,Graduation,Single,20180.0,0,0,2
+632,1976,Graduation,Single,20180.0,0,0,2
+638,1971,Master,Together,30538.0,1,0,2
+641,1989,Graduation,Married,75433.0,1,0,2
+644,1983,Graduation,Single,39062.0,1,0,2
+645,1972,Graduation,Married,30023.0,1,0,2
+646,1970,Graduation,Single,30015.0,1,0,2
+647,1980,Graduation,Married,33228.0,1,0,2
+655,1990,2n Cycle,Single,51250.0,1,0,2
+662,1977,Graduation,Single,37774.0,2,0,2
+665,1978,Graduation,Married,42693.0,1,0,2
+689,1980,Basic,Married,25965.0,0,0,2
+690,1970,Graduation,Married,22979.0,1,0,2
+692,1985,Graduation,Married,44322.0,1,0,2
+693,1983,Graduation,Married,30096.0,1,0,2
+694,1983,Graduation,Married,30096.0,1,0,2
+702,1987,Graduation,Single,29236.0,1,0,2
+709,1975,Master,Together,22669.0,1,0,2
+716,1983,Graduation,Married,39922.0,1,0,2
+717,1983,Graduation,Married,39922.0,1,0,2
+718,1983,Graduation,Married,39922.0,1,0,2
+723,1985,Graduation,Single,66503.0,1,0,2
+727,1988,Graduation,Single,27938.0,1,0,2
+730,1981,Graduation,Together,42162.0,1,0,2
+735,1978,PhD,Married,37717.0,1,0,2
+736,1978,PhD,Married,37717.0,1,0,2
+740,1976,Basic,Divorced,9548.0,1,0,2
+743,1979,Graduation,Single,48526.0,1,0,2
+745,1981,2n Cycle,Together,19414.0,1,0,2
+748,1982,2n Cycle,Together,41039.0,0,0,2
+752,1971,Graduation,Single,10245.0,1,0,2
+753,1985,PhD,Married,33454.0,1,0,2
+756,1983,Graduation,Together,37292.0,1,0,2
+758,1972,2n Cycle,Married,24884.0,1,0,2
+766,1981,Master,Single,36143.0,1,0,2
+780,1970,PhD,Divorced,35682.0,1,0,2
+781,1989,Master,Divorced,10979.0,0,0,2
+782,1989,Master,Divorced,10979.0,0,0,2
+788,1978,Master,Together,61346.0,1,0,2
+791,1987,Basic,Single,21063.0,1,0,2
+792,1970,Graduation,Single,33697.0,1,0,2
+793,1978,2n Cycle,Married,25804.0,1,0,2
+799,1981,Master,Together,42021.0,1,0,2
+808,1983,Graduation,Together,28359.0,1,0,2
+815,1974,PhD,Single,30899.0,1,0,2
+817,1987,Graduation,Married,25545.0,1,0,2
+822,1972,Basic,Married,25224.0,1,0,2
+824,1967,PhD,Divorced,28420.0,1,0,2
+825,1977,Graduation,Divorced,32952.0,1,0,2
+834,1986,Graduation,Married,22518.0,1,0,2
+836,1982,Graduation,Single,39660.0,1,0,2
+845,1975,2n Cycle,Married,17003.0,1,0,2
+847,1971,Graduation,Widow,45684.0,1,0,2
+848,1969,Graduation,Together,21918.0,1,0,2
+857,1989,Basic,Married,17487.0,1,0,2
+867,1986,Graduation,Divorced,21846.0,1,0,2
+871,1982,Master,Together,27590.0,1,0,2
+874,1973,PhD,Married,32644.0,1,0,2
+875,1969,PhD,Married,33581.0,2,0,2
+876,1978,2n Cycle,Married,12393.0,0,0,2
+877,1984,PhD,Single,42710.0,1,0,2
+881,1987,Graduation,Married,17323.0,0,0,2
+886,1985,Graduation,Together,29103.0,1,0,2
+888,1970,Graduation,Single,20587.0,1,0,2
+889,1970,Graduation,Single,20587.0,1,0,2
+891,1974,Graduation,Together,48186.0,1,0,2
+892,1968,Graduation,Married,19329.0,1,0,2
+894,1986,Graduation,Married,23477.0,1,0,2
+896,1976,PhD,Divorced,14849.0,1,0,2
+897,1978,2n Cycle,Married,26224.0,1,0,2
+903,1970,Master,Married,44511.0,1,0,2
+907,1975,PhD,Married,36663.0,1,0,2
+909,1982,Master,Married,21059.0,1,0,2
+915,1978,Graduation,Together,22775.0,1,0,2
+916,1978,Graduation,Together,22775.0,1,0,2
+917,1972,Graduation,Together,31590.0,1,0,2
+920,1972,Basic,Married,14188.0,0,0,2
+921,1985,PhD,Married,18169.0,1,0,2
+926,1986,Graduation,Single,26576.0,1,0,2
+930,1973,Graduation,Married,27803.0,1,0,2
+932,1992,Basic,Single,18746.0,1,0,2
+939,1986,Master,Married,27161.0,1,0,2
+941,1973,Basic,Married,18978.0,1,0,2
+942,1977,Graduation,Married,41124.0,1,0,2
+943,1984,PhD,Single,39684.0,1,0,2
+945,1982,Graduation,Married,37040.0,0,0,2
+950,1978,Graduation,Together,28587.0,1,0,2
+954,1978,2n Cycle,Single,38593.0,1,0,2
+955,1977,Master,Married,27889.0,1,0,2
+961,1979,Graduation,Married,2447.0,1,0,2
+963,1989,Graduation,Married,42387.0,1,0,2
+965,1985,Graduation,Together,54006.0,1,0,2
+966,1978,Graduation,Together,16531.0,1,0,2
+968,1984,PhD,Married,18988.0,1,0,2
+970,1988,Graduation,Single,39747.0,1,0,2
+977,1972,Graduation,Married,22063.0,1,0,2
+979,1968,PhD,Married,29187.0,1,0,2
+981,1970,Graduation,Divorced,33986.0,1,0,2
+982,1986,Master,Together,42386.0,1,0,2
+983,1986,Master,Together,42386.0,1,0,2
+985,1988,Basic,Together,13724.0,1,0,2
+993,1980,PhD,Married,30732.0,1,0,2
+1004,1975,Graduation,Married,27573.0,1,0,2
+1005,1979,2n Cycle,Divorced,13533.0,1,0,2
+1007,1978,Graduation,Together,25851.0,1,0,2
+1011,1983,Graduation,Married,25271.0,1,0,2
+1018,1975,Graduation,Married,33183.0,1,0,2
+1019,1982,Master,Together,23661.0,1,0,2
+1020,1977,2n Cycle,Together,25315.0,1,0,2
+1027,1989,PhD,Single,33996.0,0,0,2
+1028,1989,PhD,Single,33996.0,0,0,2
+1032,1972,Master,Single,49494.0,1,0,2
+1036,1978,Graduation,Together,42011.0,1,0,2
+1038,1972,Graduation,Together,46053.0,1,0,2
+1039,1981,Basic,Married,24480.0,1,0,2
+1044,1980,Graduation,Together,44010.0,1,0,2
+1048,1971,Graduation,Married,64722.0,1,0,2
+1049,1976,PhD,Together,37395.0,1,0,2
+1050,1968,Master,Married,29543.0,2,0,2
+1062,1975,Graduation,Married,23957.0,1,0,2
+1063,1973,Graduation,Married,33471.0,1,0,2
+1065,1985,PhD,Single,30298.0,0,0,2
+1072,1978,Graduation,Together,57867.0,1,0,2
+1073,1973,Graduation,Married,25410.0,1,0,2
+1075,1991,Graduation,Married,42691.0,0,0,2
+1080,1974,PhD,Married,34596.0,1,0,2
+1081,1974,PhD,Married,34596.0,1,0,2
+1088,1980,Graduation,Together,69508.0,1,0,2
+1095,1979,Master,Married,32765.0,1,0,2
+1097,1975,2n Cycle,Married,22212.0,1,0,2
+1098,1989,Graduation,Single,18358.0,1,0,2
+1099,1974,Graduation,Married,26067.0,1,0,2
+1100,1969,Basic,Together,22390.0,0,0,2
+1103,1981,Graduation,Together,38547.0,1,0,2
+1104,1980,Graduation,Married,19107.0,1,0,2
+1105,1985,PhD,Single,37929.0,0,0,2
+1126,1978,2n Cycle,Single,36975.0,1,0,2
+1127,1973,Graduation,Married,26228.0,1,0,2
+1128,1972,Master,Married,37787.0,1,0,2
+1129,1974,PhD,Married,37087.0,1,0,2
+1142,1986,Graduation,Single,26816.0,0,0,2
+1147,1984,Graduation,Single,34738.0,1,0,2
+1150,1973,Graduation,Together,22682.0,1,0,2
+1152,1969,Graduation,Married,25293.0,1,0,2
+1153,1969,Graduation,Married,25293.0,1,0,2
+1157,1983,Graduation,Together,22010.0,1,0,2
+1163,1965,Graduation,Single,23478.0,0,0,2
+1164,1978,Graduation,Single,30168.0,1,0,2
+1165,1989,Graduation,Married,37155.0,1,0,2
+1166,1985,Basic,Single,16581.0,0,0,2
+1170,1971,Graduation,Divorced,25818.0,1,0,2
+1171,1984,Graduation,Together,15345.0,1,0,2
+1175,1989,2n Cycle,Together,10404.0,1,0,2
+1176,1991,Basic,Single,26868.0,1,0,2
+1180,1985,Graduation,Single,29938.0,1,0,2
+1183,1970,Master,Single,29548.0,1,0,2
+1190,1978,Basic,Together,24882.0,1,0,2
+1191,1978,Basic,Together,24882.0,1,0,2
+1194,1983,PhD,Married,23536.0,1,0,2
+1196,1978,Graduation,Married,28442.0,2,0,2
+1201,1976,2n Cycle,Together,36301.0,1,0,2
+1205,1971,PhD,Single,42767.0,2,0,2
+1206,1982,Master,Married,43815.0,1,0,2
+1222,1973,2n Cycle,Divorced,31163.0,1,0,2
+1223,1973,2n Cycle,Divorced,31163.0,1,0,2
+1225,1973,Graduation,Single,7500.0,1,0,2
+1226,1983,Graduation,Together,36075.0,1,0,2
+1231,1975,PhD,Married,45503.0,1,0,2
+1232,1978,Graduation,Single,28647.0,1,0,2
+1233,1972,Master,Divorced,37760.0,1,0,2
+1241,1977,Graduation,Single,35790.0,1,0,2
+1247,1976,Graduation,Together,21675.0,1,0,2
+1276,1974,Master,Together,21255.0,1,0,2
+1281,1981,Master,Married,36959.0,1,0,2
+1285,1989,Graduation,Married,28691.0,1,0,2
+1286,1989,Graduation,Married,28691.0,1,0,2
+1291,1973,Graduation,Single,3502.0,1,0,2
+1297,1984,Master,Single,31385.0,1,0,2
+1301,1977,Graduation,Married,42014.0,1,0,2
+1302,1977,Graduation,Married,42014.0,1,0,2
+1313,1982,Graduation,Single,28567.0,1,0,2
+1321,1978,PhD,Single,54880.0,1,0,2
+1326,1981,Graduation,Together,31089.0,1,0,2
+1327,1988,Graduation,Single,20518.0,1,0,2
+1337,1982,Basic,Single,24367.0,1,0,2
+1344,1976,Graduation,Together,29478.0,1,0,2
+1346,1975,Master,Single,31160.0,1,0,2
+1353,1976,Basic,Married,7500.0,0,0,2
+1355,1977,PhD,Married,28973.0,0,0,2
+1359,1973,Master,Married,38961.0,1,0,2
+1371,1982,PhD,Together,32313.0,1,0,2
+1373,1979,Graduation,Divorced,15287.0,1,0,2
+1374,1979,Graduation,Divorced,15287.0,1,0,2
+1381,1975,2n Cycle,Single,49514.0,1,0,2
+1382,1972,PhD,Married,43269.0,1,0,2
+1410,1990,Graduation,Single,34412.0,1,0,2
+1411,1985,Graduation,Married,31158.0,1,0,2
+1416,1991,Graduation,Single,8028.0,0,0,2
+1420,1973,PhD,Together,20427.0,1,0,2
+1424,1972,Master,Together,49854.0,1,0,2
+1427,1985,Master,Married,19510.0,2,0,2
+1434,1992,Basic,Single,7500.0,1,0,2
+1441,1983,Graduation,Together,39453.0,1,0,2
+1442,1969,PhD,Together,42731.0,1,0,2
+1454,1983,Master,Married,27100.0,1,0,2
+1455,1983,Master,Married,27100.0,1,0,2
+1458,1979,Basic,Single,20194.0,1,0,2
+1463,1977,Graduation,Single,23763.0,1,0,2
+1466,1971,Graduation,Divorced,1730.0,0,0,2
+1467,1995,Graduation,Single,34824.0,0,0,2
+1468,1995,Graduation,Single,34824.0,0,0,2
+1470,1972,Graduation,Divorced,26759.0,1,0,2
+1473,1971,Graduation,Married,70886.0,1,0,2
+1479,1971,Graduation,Together,38590.0,1,0,2
+1484,1978,PhD,Married,41014.0,1,0,2
+1486,1979,Basic,Together,23724.0,1,0,2
+1492,1980,Graduation,Single,28071.0,0,0,2
+1496,1984,2n Cycle,Married,35684.0,1,0,2
+1497,1986,PhD,Together,34320.0,1,0,2
+1501,1970,Graduation,Together,53187.0,1,0,2
+1504,1970,Graduation,Single,24206.0,1,0,2
+1505,1985,Graduation,Married,55357.0,2,0,2
+1508,1985,PhD,Married,64355.0,1,0,2
+1513,1981,Master,Single,22944.0,1,0,2
+1519,1983,Graduation,Together,28427.0,1,0,2
+1520,1983,Graduation,Together,28427.0,1,0,2
+1521,1969,Master,Single,39858.0,1,0,2
+1527,1984,Graduation,Single,52413.0,1,0,2
+1534,1984,Graduation,Together,37235.0,1,0,2
+1536,1984,Graduation,Together,23976.0,1,0,2
+1537,1987,Master,Single,41020.0,0,0,2
+1538,1984,Graduation,Single,36108.0,1,0,2
+1542,1977,Graduation,Married,34380.0,1,0,2
+1548,1977,Graduation,Divorced,40246.0,1,0,2
+1549,1984,Graduation,Together,35196.0,1,0,2
+1550,1984,Graduation,Together,35196.0,1,0,2
+1554,1972,Master,Single,42394.0,1,0,2
+1560,1978,Graduation,Married,38136.0,1,0,2
+1568,1980,Basic,Married,16005.0,1,0,2
+1572,1989,Graduation,Single,64449.0,1,0,2
+1574,1976,Graduation,Married,17649.0,1,0,2
+1583,1990,Graduation,Married,18222.0,0,0,2
+1591,1967,PhD,Divorced,26642.0,1,0,2
+1592,1986,Graduation,Together,33235.0,1,0,2
+1593,1969,Graduation,Together,23228.0,1,0,2
+1598,1990,Basic,Single,16185.0,1,0,2
+1599,1978,2n Cycle,Together,38702.0,1,0,2
+1602,1992,Graduation,Married,34935.0,0,0,2
+1603,1992,Graduation,Married,34935.0,0,0,2
+1608,1984,Master,Married,42207.0,1,0,2
+1610,1987,Graduation,Single,23442.0,1,0,2
+1612,1980,2n Cycle,Together,14515.0,1,0,2
+1614,1979,Graduation,Together,30545.0,1,0,2
+1622,1988,Graduation,Single,25008.0,1,0,2
+1624,1980,Graduation,Married,47850.0,1,0,2
+1657,1973,Graduation,Married,31814.0,1,0,2
+1660,1985,Master,Together,40101.0,1,0,2
+1663,1980,Graduation,Single,51766.0,1,0,2
+1664,1980,Graduation,Together,62994.0,1,0,2
+1666,1969,Graduation,Together,38361.0,1,0,2
+1667,1969,Graduation,Together,38361.0,1,0,2
+1668,1985,Graduation,Married,19986.0,1,0,2
+1669,1985,Graduation,Married,19986.0,1,0,2
+1676,1969,Master,Single,26877.0,0,0,2
+1681,1963,Graduation,Married,22419.0,0,0,2
+1682,1963,Graduation,Married,22419.0,0,0,2
+1683,1978,2n Cycle,Married,36550.0,1,0,2
+1689,1982,Master,Together,18492.0,1,0,2
+1694,1984,PhD,Single,16269.0,1,0,2
+1695,1982,Graduation,Together,50272.0,1,0,2
+1696,1971,Graduation,Single,22804.0,1,0,2
+1697,1971,Graduation,Single,22804.0,1,0,2
+1698,1974,Graduation,Married,30631.0,1,0,2
+1701,1971,Graduation,Married,25721.0,1,0,2
+1702,1972,Graduation,Single,31907.0,0,0,2
+1705,1979,Graduation,Together,21645.0,1,0,2
+1706,1978,2n Cycle,Divorced,21282.0,1,0,2
+1709,1971,Graduation,Together,16626.0,2,0,2
+1713,1976,2n Cycle,Married,23718.0,1,0,2
+1720,1977,Graduation,Single,28769.0,1,0,2
+1722,1986,Graduation,Married,32880.0,1,0,2
+1723,1982,2n Cycle,Single,23616.0,1,0,2
+1724,1981,Graduation,Married,19419.0,1,0,2
+1725,1973,Graduation,Married,34961.0,1,0,2
+1727,1988,2n Cycle,Married,16248.0,1,0,2
+1728,1983,Graduation,Together,43776.0,1,0,2
+1731,1978,Master,Single,35544.0,1,0,2
+1732,1989,2n Cycle,Married,59060.0,1,0,2
+1734,1971,Graduation,Divorced,29819.0,1,0,2
+1737,1990,Graduation,Single,26095.0,1,0,2
+1739,1976,Graduation,Divorced,31859.0,1,0,2
+1745,1959,Graduation,Married,18690.0,0,0,2
+1746,1959,Graduation,Married,18690.0,0,0,2
+1747,1959,Graduation,Married,18690.0,0,0,2
+1750,1971,PhD,Together,32892.0,1,0,2
+1751,1971,PhD,Together,32892.0,1,0,2
+1754,1989,Graduation,Single,46107.0,1,0,2
+1762,1979,Master,Divorced,33462.0,1,0,2
+1763,1975,Graduation,Divorced,36627.0,2,0,2
+1764,1982,Graduation,Married,28718.0,1,0,2
+1776,1977,Graduation,Married,41443.0,1,0,2
+1781,1970,Graduation,Single,43020.0,1,0,2
+1787,1983,Graduation,Single,24072.0,1,0,2
+1791,1978,Graduation,Married,17345.0,1,0,2
+1796,1979,PhD,Together,27922.0,1,0,2
+1798,1977,Master,Single,36273.0,1,0,2
+1800,1976,Graduation,Married,17148.0,1,0,2
+1802,1979,Master,Married,45057.0,1,0,2
+1805,1986,Master,Single,19485.0,2,0,2
+1806,1983,PhD,Together,21840.0,1,0,2
+1807,1985,2n Cycle,Single,41473.0,1,0,2
+1815,1969,Graduation,Divorced,23910.0,1,0,2
+1817,1973,Graduation,Divorced,71128.0,1,0,2
+1818,1989,2n Cycle,Together,38683.0,1,0,2
+1819,1971,Graduation,Married,37150.0,1,0,2
+1824,1996,Basic,Married,14421.0,0,0,2
+1827,1978,Graduation,Married,64813.0,1,0,2
+1831,1979,Graduation,Together,34350.0,1,0,2
+1833,1986,2n Cycle,Married,21955.0,1,0,2
+1836,1974,Graduation,Married,34421.0,1,0,2
+1837,1974,Graduation,Married,34421.0,1,0,2
+1847,1981,PhD,Together,56937.0,1,0,2
+1848,1986,Graduation,Together,83033.0,1,0,2
+1849,1976,Graduation,Single,37697.0,1,0,2
+1850,1976,Graduation,Single,37697.0,1,0,2
+1854,1967,PhD,Single,40304.0,1,0,2
+1855,1984,Graduation,Married,40059.0,1,0,2
+1857,1981,PhD,Single,36038.0,1,0,2
+1861,1984,Graduation,Single,11012.0,1,0,2
+1862,1976,Graduation,Divorced,31615.0,1,0,2
+1866,1979,Graduation,Married,17688.0,1,0,2
+1867,1989,Basic,Married,25443.0,1,0,2
+1869,1981,2n Cycle,Single,24336.0,1,0,2
+1874,1985,2n Cycle,Married,23148.0,0,0,2
+1881,1979,Graduation,Single,57537.0,1,0,2
+1883,1976,Graduation,Divorced,30992.0,1,0,2
+1884,1976,Graduation,Divorced,30992.0,1,0,2
+1892,1970,PhD,Married,23626.0,1,0,2
+1895,1979,Graduation,Married,27244.0,1,0,2
+1915,1970,Master,Married,44159.0,1,0,2
+1928,1975,Graduation,Together,22280.0,1,0,2
+1933,1982,Graduation,Married,24711.0,0,0,2
+1939,1982,Graduation,Married,22448.0,1,0,2
+1940,1976,Graduation,Divorced,12571.0,1,0,2
+1942,1990,Graduation,Married,35765.0,1,0,2
+1947,1986,PhD,Together,38197.0,1,0,2
+1952,1982,Graduation,Married,42081.0,1,0,2
+1953,1986,Basic,Single,14906.0,0,0,2
+1954,1985,2n Cycle,Single,33812.0,1,0,2
+1971,1974,PhD,Together,28440.0,1,0,2
+1972,1973,2n Cycle,Married,23559.0,1,0,2
+1984,1985,Graduation,Single,29760.0,1,0,2
+1985,1985,Graduation,Single,29760.0,1,0,2
+1987,1988,Graduation,Together,29604.0,1,0,2
+1996,1985,Master,Married,20559.0,1,0,2
+2004,1978,PhD,Married,46377.0,1,0,2
+2010,1971,PhD,Married,32011.0,1,0,2
+2012,1975,Graduation,Divorced,70300.0,1,0,2
+2013,1976,Master,Together,21024.0,0,0,2
+2014,1968,Graduation,Together,34916.0,2,0,2
+2018,1969,Graduation,Single,18589.0,0,0,2
+2023,1968,Master,Divorced,27071.0,1,0,2
+2027,1976,Master,Married,33181.0,1,0,2
+2038,1987,Graduation,Single,46923.0,1,0,2
+2041,1978,PhD,Together,27683.0,1,0,2
+2042,1974,PhD,Single,39190.0,1,0,2
+2044,1984,Graduation,Married,23228.0,1,0,2
+2047,1989,Graduation,Single,9255.0,1,0,2
+2064,1977,Graduation,Together,39771.0,1,0,2
+2065,1972,Master,Divorced,42618.0,1,0,2
+2068,1975,Graduation,Single,33955.0,1,0,2
+2070,1971,Graduation,Single,31632.0,0,0,2
+2072,1969,Graduation,Single,30822.0,1,0,2
+2073,1968,Graduation,Together,41728.0,1,0,2
+2075,1991,Graduation,Single,49767.0,0,0,2
+2076,1981,Basic,Married,34445.0,0,0,2
+2085,1988,2n Cycle,Married,23331.0,1,0,2
+2088,1971,PhD,Together,49269.0,1,0,2
+2090,1988,2n Cycle,Together,45204.0,1,0,2
+2098,1988,Graduation,Married,38872.0,1,0,2
+2100,1987,Basic,Single,15038.0,1,0,2
+2101,1976,Graduation,Married,13624.0,1,0,2
+2103,1986,Graduation,Married,71952.0,1,0,2
+2104,1986,Graduation,Married,71952.0,1,0,2
+2115,1981,PhD,Married,58293.0,1,0,2
+2116,1974,Graduation,Together,47889.0,1,0,2
+2117,1979,Basic,Together,24594.0,1,0,2
+2118,1979,Basic,Together,24594.0,1,0,2
+2121,1985,Graduation,Single,22327.0,1,0,2
+2127,1970,Graduation,Together,19656.0,1,0,2
+2128,1987,Graduation,Married,7500.0,0,0,2
+2131,1976,Master,Married,34529.0,1,0,2
+2132,1992,Graduation,Single,48789.0,0,0,2
+2140,1980,Master,Married,31535.0,1,0,2
+2142,1982,Graduation,Together,40479.0,1,0,2
+2144,1986,Graduation,Married,38508.0,1,0,2
+2161,1984,Graduation,Married,31761.0,1,0,2
+2172,1980,Graduation,Married,15072.0,2,0,2
+2173,1986,2n Cycle,Married,7500.0,1,0,2
+2174,1978,2n Cycle,Together,17117.0,1,0,2
+2183,1974,2n Cycle,Together,49669.0,1,0,2
+2186,1973,Graduation,Married,37971.0,1,0,2
+2188,1978,PhD,Together,34043.0,1,0,2
+2191,1981,PhD,Together,39665.0,1,0,2
+2193,1984,Graduation,Married,38680.0,1,0,2
+2194,1984,Graduation,Married,24570.0,1,0,2
+2198,1968,Master,Divorced,23748.0,1,0,2
+2200,1988,2n Cycle,Single,23331.0,1,0,2
+2203,1990,2n Cycle,Married,24683.0,1,0,2
+2211,1974,PhD,Single,31560.0,1,0,2
+2220,1979,Master,Together,24401.0,0,0,2
+2222,1985,2n Cycle,Together,7500.0,1,0,2
+2229,1974,2n Cycle,Married,20130.0,0,0,2
+2230,1974,2n Cycle,Married,20130.0,0,0,2
+2236,1977,2n Cycle,Married,31056.0,1,0,2
+2237,1976,Graduation,Divorced,46310.0,1,0,2
